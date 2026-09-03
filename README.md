@@ -1,5 +1,6 @@
 # DEV setup (this is janky, I'll make it better later)
 Have `Python` installed
+
 open the project with an IDE or terminal (I guess) to /backend 
 run `Python3 -m venv .venv` (or name ur venv whatever u want I don't care)
 run `Python3 .venv/bin/activate` to activate the Python environment

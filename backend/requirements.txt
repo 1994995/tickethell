@@ -1,0 +1,7 @@
+python-dotenv
+numpy
+pandas
+fastapi[standard]
+sqlmodel
+fastapi-mail
+pip-system-certs

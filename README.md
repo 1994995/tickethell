@@ -11,7 +11,7 @@ SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
 SMTP_USER=<your_email@gmail.com>
 SMTP_PASSWORD=<your gmail app password>
-FROM_EMAIL=<whatever email u want to send from, probably SMTP_USER
+FROM_EMAIL=<whatever email u want to send from, probably SMTP_USER>
 ```
 For setting up a gmail app password see: https://support.google.com/mail/answer/185833?hl=en
 *For now this assumes gmail. In theory it could be any email provider which allows SMTP but not right now*

@@ -15,5 +15,6 @@ FROM_EMAIL=<whatever email u want to send from, probably SMTP_USER>
 ```
 For setting up a gmail app password see: https://support.google.com/mail/answer/185833?hl=en
 *For now this assumes gmail. In theory it could be any email provider which allows SMTP but not right now*
+---
 **run `fastapi dev` and click on the .../docs link to see API endpoints**
 *Hopefully everything just works. If not idk how to help u right now we'll deal with that later*

@@ -4,7 +4,7 @@
 3. run `Python3 -m venv .venv` (or name ur venv whatever u want I don't care)
 4. run `Python3 .venv/bin/activate` to activate the Python environment
 5. run `pip3 install -r requirements.txt` to install required packages
-*after installing you might need to restart the environment to get SSL certificates to work idk*
+(*after installing you might need to restart the environment to get SSL certificates to work idk*)
 6. create a `.env` file in the root directory (i.e. /backend/.env) with the following field names:
 ```sh
 SMTP_HOST=smtp.gmail.com
